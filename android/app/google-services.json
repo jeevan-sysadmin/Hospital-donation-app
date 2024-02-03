@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "548101597316",
+    "project_id": "sjc-college",
+    "storage_bucket": "sjc-college.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548101597316:android:9a89810d5003f124d53ad1",
+        "android_client_info": {
+          "package_name": "com.cdstech.sjc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548101597316-88go55ffh0nba80o89lvo108hk02s18l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACtXZKmk-HEG977KcVjbCOU2iIgfMwwDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548101597316-88go55ffh0nba80o89lvo108hk02s18l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "548101597316-j6d3o5cg1kq76vmavuf0h7vvn82bic1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cdstech.sjc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
